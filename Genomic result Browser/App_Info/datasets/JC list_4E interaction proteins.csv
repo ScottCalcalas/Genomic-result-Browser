@@ -1,0 +1,111 @@
+﻿Interaction_With,Interaction_With_ID,database,taxid,experimental_role,Name_from_author,pmid,Interaction_type,Interaction_detection,Protein,Protein_ID
+SF3B1,O75533,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+PRP6,O94906,uniprotkb,9606,prey,PRPF6,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+PRP8,Q6P2Q9,uniprotkb,9606,prey,PRPF8,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+U2AF2,P26368,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+PRP19,Q9UMS4,uniprotkb,9606,prey,PRPF19,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+U2AF1,Q01081,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+SnRNP200,O75643,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+PRP31,Q8WWY3,uniprotkb,9606,prey,PRPF31,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+4EBP1,Q13541,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+ELAVL1,Q15717,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,eIF4E,P06730
+RNMT,Q9BTL3 ,uniprotkb,9606,prey,,35026230,association,...coimmunoprecipitation,eIF4E,P06730
+RNMT ,Q9BTL3 ,uniprotkb,9606,prey,,35026230,association,...pull down,eIF4E,P06730
+RNMT,Q9BTL3 ,uniprotkb,9606,prey,,35026230,association,.nuclear magnetic resonance,eIF4E,P06730
+RNMT,Q9BTL3 ,uniprotkb,9606,prey,,35026230,association,.affinity technology,eIF4E,P06730
+LRPPRC,P42704,uniprotkb,9606,prey,,35026230,association,...pull down,eIF4E,P06730
+CPSF1,Q10570,uniprotkb,9606,prey,,31042468,association,...coimmunoprecipitation,eIF4E,P06730
+CPSF3,Q9UKF6,uniprotkb,9606,prey,,31042468,association,...coimmunoprecipitation,eIF4E,P06730
+PML ,Q60953,uniprotkb,9606,prey,,11575918,association,...pull down,eIF4E,P06730
+Z_LYCVA,P18541,uniprotkb,11624,prey,Z LCMV,11575918,association,...pull down,eIF4E,P06730
+PML ,Q60953,uniprotkb,9606,prey,,11575918,association,.circular dichroism,eIF4E,P06730
+Z_LYCVA,P18541,uniprotkb,11624,prey,Z LCMV,11575918,association,.circular dichroism,eIF4E,P06730
+PML ,Q60953,uniprotkb,9606,prey,,11575918,association,..classical fluorescence spectroscopy,eIF4E,P06730
+Z_LYCVA,P18541,uniprotkb,11624,prey,Z LCMV,11575918,association,..classical fluorescence spectroscopy,eIF4E,P06730
+PML,Q60953,uniprotkb,9606,prey,,12167712,association,.electron microscopy,eIF4E,P06730
+Z_LYCVA,P18541,uniprotkb,11624,prey,Z LCMV,12167712,association,.electron microscopy,eIF4E,P06730
+Z_LYCVA,P18541,uniprotkb,11624,prey,Z LCMV,12167712,association,..classical fluorescence spectroscopy,eIF4E,P06730
+PML,Q60953,uniprotkb,9606,bait,,11500381,association,...pull down,eIF4E,P06730
+PML,Q60953,uniprotkb,9606,prey,,11500381,association,.fluorescence microscopy,eIF4E,P06730
+PML,Q60953,uniprotkb,9606,prey,,11500381,association,.circular dichroism,eIF4E,P06730
+HHEX,Q03014,uniprotkb,9606,prey,PRH/HHEX,14645512,association,...pull down,eIF4E,P06730
+PML,Q60953,uniprotkb,9606,prey,,14645512,association,.fluorescence microscopy,eIF4E,P06730
+HHEX,Q03014,uniprotkb,9606,prey,PRH/HHEX,14645512,association,.fluorescence microscopy,eIF4E,P06730
+HHEX,Q03014,uniprotkb,9606,prey,PRH/HHEX,14645512,association,...coimmunoprecipitation,eIF4E,P06730
+Z_LASSJ,O73557,uniprotkb,11622,bait,LassaZ,20212144,association,...pull down,eIF4E,P06730
+Z_LASSJ,O73557,uniprotkb,11622,bait,LassaZ,20212144,association,.nuclear magnetic resonance,eIF4E,P06730
+Z_LASSJ,O73557,uniprotkb,11622,prey,LassaZ,20212144,association,...pull down,eIF4E,P06730
+POLG_PVYN,P18247,uniprotkb,12219,prey,potyvirus VPg,31712417,association,.nuclear magnetic resonance,eIF4E,P06730
+POLG_PVYN,P18247,uniprotkb,12219,prey,potyvirus VPg,31712417,association,...pull down,eIF4E,P06730
+Importin 8,IPO8,uniprotkb,9606,prey,,27114554,association,...pull down,eIF4E,P06730
+Importin 8,IPO8,uniprotkb,9606,bait,,27114554,association,...pull down,eIF4E,P06730
+Importin 8,IPO8,uniprotkb,9606,prey,,27114554,association,.nuclear magnetic resonance,eIF4E,P06730
+LRPPRC,P42704 ,uniprotkb,9606,prey,,28325843,association,...pull down,eIF4E,P06730
+LRPPRC,P42704 ,uniprotkb,9606,bait,,28325843,association,...pull down,eIF4E,P06730
+LRPPRC,P42704 ,uniprotkb,9606,prey,,28325843,association,.nuclear magnetic resonance,eIF4E,P06730
+LRPPRC,P42704 ,uniprotkb,9606,prey,,28325843,association,.chromatography technology,eIF4E,P06730
+CRM1,P30822,uniprotkb,559292,prey,,28325843,association,.chromatography technology,eIF4E,P06730
+CRM1,P30822,uniprotkb,559292,bait,,28325843,association,...pull down,eIF4E,P06730
+Importin 8,IPO8,uniprotkb,9606,bait,,28325843,association,...pull down,eIF4E,P06730
+Importin 8,IPO8,uniprotkb,9606,prey,,28325843,association,...pull down,eIF4E,P06730
+LRPPRC,P42704 ,uniprotkb,9606,prey,,19262567,association,...coimmunoprecipitation,eIF4E,P06730
+hnRNPA1,P09651,uniprotkb,9606,prey,,19262567,association,...coimmunoprecipitation,eIF4E,P06730
+CRM1,P30822,uniprotkb,559292,prey,,19262567,association,...coimmunoprecipitation,eIF4E,P06730
+UAP56 ,Q5RE47,uniprotkb,9601,prey,,19262567,association,...coimmunoprecipitation,eIF4E,P06730
+PML,P29590,uniprotkb,9606,prey,,19262567,association,...coimmunoprecipitation,eIF4E,P06730
+LRPPRC,P42704 ,uniprotkb,9606,bait,,19262567,association,...coimmunoprecipitation,eIF4E,P06730
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,SF3B1,O75533
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,PRP6,O94906
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,PRP8,Q6P2Q9
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,U2AF2,P26368
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,PRP19,Q9UMS4
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,U2AF1,Q01081
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,SnRNP200,O75643
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,PRP31,Q8WWY3
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,4EBP1,Q13541
+eIF4E,P06730,uniprotkb,9606,prey,,36843541,association,...coimmunoprecipitation,ELAVL1,Q15717
+eIF4E,P06730,uniprotkb,9606,prey,,35026230,association,...coimmunoprecipitation,RNMT,Q9BTL3 
+eIF4E,P06730,uniprotkb,9606,prey,,35026230,association,...pull down,RNMT ,Q9BTL3 
+eIF4E,P06730,uniprotkb,9606,prey,,35026230,association,.nuclear magnetic resonance,RNMT,Q9BTL3 
+eIF4E,P06730,uniprotkb,9606,prey,,35026230,association,.affinity technology,RNMT,Q9BTL3 
+eIF4E,P06730,uniprotkb,9606,prey,,35026230,association,...pull down,LRPPRC,P42704
+eIF4E,P06730,uniprotkb,9606,prey,,31042468,association,...coimmunoprecipitation,CPSF1,Q10570
+eIF4E,P06730,uniprotkb,9606,prey,,31042468,association,...coimmunoprecipitation,CPSF3,Q9UKF6
+eIF4E,P06730,uniprotkb,9606,prey,,11575918,association,...pull down,PML ,Q60953
+eIF4E,P06730,uniprotkb,11624,prey,,11575918,association,...pull down,Z_LYCVA,P18541
+eIF4E,P06730,uniprotkb,9606,prey,,11575918,association,.circular dichroism,PML ,Q60953
+eIF4E,P06730,uniprotkb,11624,prey,,11575918,association,.circular dichroism,Z_LYCVA,P18541
+eIF4E,P06730,uniprotkb,9606,prey,,11575918,association,..classical fluorescence spectroscopy,PML ,Q60953
+eIF4E,P06730,uniprotkb,11624,prey,,11575918,association,..classical fluorescence spectroscopy,Z_LYCVA,P18541
+eIF4E,P06730,uniprotkb,9606,prey,,12167712,association,.electron microscopy,PML,Q60953
+eIF4E,P06730,uniprotkb,11624,prey,,12167712,association,.electron microscopy,Z_LYCVA,P18541
+eIF4E,P06730,uniprotkb,11624,prey,,12167712,association,..classical fluorescence spectroscopy,Z_LYCVA,P18541
+eIF4E,P06730,uniprotkb,9606,bait,,11500381,association,...pull down,PML,Q60953
+eIF4E,P06730,uniprotkb,9606,prey,,11500381,association,.fluorescence microscopy,PML,Q60953
+eIF4E,P06730,uniprotkb,9606,prey,,11500381,association,.circular dichroism,PML,Q60953
+eIF4E,P06730,uniprotkb,9606,prey,,14645512,association,...pull down,HHEX,Q03014
+eIF4E,P06730,uniprotkb,9606,prey,,14645512,association,.fluorescence microscopy,PML,Q60953
+eIF4E,P06730,uniprotkb,9606,prey,,14645512,association,.fluorescence microscopy,HHEX,Q03014
+eIF4E,P06730,uniprotkb,9606,prey,,14645512,association,...coimmunoprecipitation,HHEX,Q03014
+eIF4E,P06730,uniprotkb,11622,bait,,20212144,association,...pull down,Z_LASSJ,O73557
+eIF4E,P06730,uniprotkb,11622,bait,,20212144,association,.nuclear magnetic resonance,Z_LASSJ,O73557
+eIF4E,P06730,uniprotkb,11622,prey,,20212144,association,...pull down,Z_LASSJ,O73557
+eIF4E,P06730,uniprotkb,12219,prey,,31712417,association,.nuclear magnetic resonance,POLG_PVYN,P18247
+eIF4E,P06730,uniprotkb,12219,prey,,31712417,association,...pull down,POLG_PVYN,P18247
+eIF4E,P06730,uniprotkb,9606,prey,,27114554,association,...pull down,Importin 8,IPO8
+eIF4E,P06730,uniprotkb,9606,bait,,27114554,association,...pull down,Importin 8,IPO8
+eIF4E,P06730,uniprotkb,9606,prey,,27114554,association,.nuclear magnetic resonance,Importin 8,IPO8
+eIF4E,P06730,uniprotkb,9606,prey,,28325843,association,...pull down,LRPPRC,P42704 
+eIF4E,P06730,uniprotkb,9606,bait,,28325843,association,...pull down,LRPPRC,P42704 
+eIF4E,P06730,uniprotkb,9606,prey,,28325843,association,.nuclear magnetic resonance,LRPPRC,P42704 
+eIF4E,P06730,uniprotkb,9606,prey,,28325843,association,.chromatography technology,LRPPRC,P42704 
+eIF4E,P06730,uniprotkb,559292,prey,,28325843,association,.chromatography technology,CRM1,P30822
+eIF4E,P06730,uniprotkb,559292,bait,,28325843,association,...pull down,CRM1,P30822
+eIF4E,P06730,uniprotkb,9606,bait,,28325843,association,...pull down,Importin 8,IPO8
+eIF4E,P06730,uniprotkb,9606,prey,,28325843,association,...pull down,Importin 8,IPO8
+eIF4E,P06730,uniprotkb,9606,prey,,19262567,association,...coimmunoprecipitation,LRPPRC,P42704 
+eIF4E,P06730,uniprotkb,9606,prey,,19262567,association,...coimmunoprecipitation,hnRNPA1,P09651
+eIF4E,P06730,uniprotkb,559292,prey,,19262567,association,...coimmunoprecipitation,CRM1,P30822
+eIF4E,P06730,uniprotkb,9601,prey,,19262567,association,...coimmunoprecipitation,UAP56 ,Q5RE47
+eIF4E,P06730,uniprotkb,9606,prey,,19262567,association,...coimmunoprecipitation,PML,P29590
+eIF4E,P06730,uniprotkb,9606,bait,,19262567,association,...coimmunoprecipitation,LRPPRC,P42704 
